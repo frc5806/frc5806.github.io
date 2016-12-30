@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["frc5806@users.noreply.github.com"]
 
   spec.summary       = %q{The website for FRC 5806}
-  spec.homepage      = "http://frc5806.com"
+  spec.homepage      = "http://frc5806.org"
   spec.license       = "MIT"
 
 
