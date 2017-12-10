@@ -1,0 +1,7 @@
+---
+layout: page
+title: Calendar
+permalink: /calendar/
+---
+<iframe src="https://calendar.google.com/calendar/embed?src=horacemann.org_b39s3nanb9b626icfugva1r8j4%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+{% endfor %}
